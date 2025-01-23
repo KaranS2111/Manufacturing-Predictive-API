@@ -1,6 +1,6 @@
 # Manufacturing Predictive API
 
-This project implements a RESTful API for predictive analysis in manufacturing operations. The API predicts machine downtime based on inputs like temperature and run time using machine learning models. The endpoints allow users to upload a dataset, train the model, and make predictions.
+This assignment implements a RESTful API for predictive analysis in manufacturing operations. The API predicts machine downtime based on inputs like temperature and run time using machine learning models. The endpoints allow users to upload a dataset, train the model, and make predictions.
 
 ---
 
@@ -160,6 +160,6 @@ curl -X POST "http://127.0.0.1:8000/predict" \
 ---
 
 ## **Contact**
-For questions or support, please contact [your_email@example.com].
+For questions or support, please contact [karan.sardar2111@gmail.com].
 
 
